@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning TensorFlow
-- 👯 I’m looking to collaborate on Deep Learning and Conputer Vision projects
+- 👯 I’m looking to collaborate on Deep Learning and Computer Vision projects
 - 💬 Ask me about Computer Vision and TensorFlow
 - 📫 How to reach me: [Gmail](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=adityakane1@gmail.com), [LinkedIn](https://www.linkedin.com/in/aditya-kane/) 
 - :computer: See my work: [Kaggle](https://www.kaggle.com/adityakane), GitHub (you're here!)
