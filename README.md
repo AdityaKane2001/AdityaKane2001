@@ -3,7 +3,7 @@
 <!--
 **AdityaKane2001/AdityaKane2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are something about me:
+Here's something about me:
 
 - 🌱 I’m currently learning TensorFlow
 - 👯 I’m looking to collaborate on Deep Learning and Computer Vision projects
