@@ -15,3 +15,5 @@ Here's something about me:
 
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaKane2001&show_icons=true&theme=radical&title_color=ed8e24&icon_color=33ccff
 )
+
+![Metrics](https://github.com/my-github-user/my-github-user/blob/main/github-metrics.svg)
