@@ -12,8 +12,5 @@ Here's something about me:
 - :computer: See my work: [Kaggle](https://www.kaggle.com/adityakane), GitHub (you're here!)
 
 ## Some stats about me:
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaKane2001&show_icons=true&theme=radical&title_color=ed8e24&icon_color=33ccff
-)
-
 
 ![Metrics](https://github.com/AdityaKane2001/AdityaKane2001/blob/main/github-metrics.svg)
