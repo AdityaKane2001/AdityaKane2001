@@ -20,3 +20,4 @@ jobs:
           plugin_languages_ignored: html, css 
           plugin_introduction: no
           plugin_introduction_title: no # Hide section title
+          plugin_contributors_ignored: github-actions[bot]
