@@ -11,10 +11,6 @@ Here's something about me:
 - 📫 How to reach me: [Gmail](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=adityakane1@gmail.com), [LinkedIn](https://www.linkedin.com/in/aditya-kane/) 
 - :computer: See my work: [Kaggle](https://www.kaggle.com/adityakane), GitHub (you're here!)
 
-## My contributtions:
-
-[![My contributions](https://adityakane2001.github.io/AdityaKane2001/contributions.png)](https://adityakane2001.github.io/AdityaKane2001/contributions)
-
 
 ## Some stats about me:
 ![Metrics](https://github.com/AdityaKane2001/AdityaKane2001/blob/main/github-metrics.svg)
