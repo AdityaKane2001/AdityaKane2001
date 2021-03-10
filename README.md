@@ -12,5 +12,5 @@ Here's something about me:
 - :computer: See my work: [Kaggle](https://www.kaggle.com/adityakane), GitHub (you're here!)
 
 ## Some stats about me:
+[![My contributions](https://AdityaKane2001.github.io/contributions.png)](https://AdityaKane2001.github.io/contributions)
 
-![Metrics](https://github.com/AdityaKane2001/AdityaKane2001/blob/main/github-metrics.svg)
