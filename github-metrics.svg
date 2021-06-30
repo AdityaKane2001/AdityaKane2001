@@ -1367,7 +1367,7 @@ p.field { color: #d4d4d4 !important;}</style>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30/06/2021, 00:53  with lowlighter/metrics@3.11.0-beta</span>
+                <span>Last updated 30/06/2021, 00:57  with lowlighter/metrics@3.11.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
