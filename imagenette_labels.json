@@ -1,0 +1,52 @@
+{
+    "0": {
+        "id": "01440764-n",
+        "label": "tench, Tinca tinca",
+        "uri": "http://wordnet-rdf.princeton.edu/wn30/01440764-n"
+    },
+    "1": {
+        "id": "02102040-n",
+        "label": "English springer, English springer spaniel",
+        "uri": "http://wordnet-rdf.princeton.edu/wn30/02102040-n"
+    },
+    "2": {
+        "id": "02979186-n",
+        "label": "cassette player",
+        "uri": "http://wordnet-rdf.princeton.edu/wn30/02979186-n"
+    },
+    "3": {
+        "id": "03000684-n",
+        "label": "chain saw, chainsaw",
+        "uri": "http://wordnet-rdf.princeton.edu/wn30/03000684-n"
+    },
+    "4": {
+        "id": "03028079-n",
+        "label": "church, church building",
+        "uri": "http://wordnet-rdf.princeton.edu/wn30/03028079-n"
+    },
+    "5": {
+        "id": "03394916-n",
+        "label": "French horn, horn",
+        "uri": "http://wordnet-rdf.princeton.edu/wn30/03394916-n"
+    },
+    "6": {
+        "id": "03417042-n",
+        "label": "garbage truck, dustcart",
+        "uri": "http://wordnet-rdf.princeton.edu/wn30/03417042-n"
+    },
+    "7": {
+        "id": "03425413-n",
+        "label": "gas pump, gasoline pump, petrol pump, island dispenser",
+        "uri": "http://wordnet-rdf.princeton.edu/wn30/03425413-n"
+    },
+    "8": {
+        "id": "03445777-n",
+        "label": "golf ball",
+        "uri": "http://wordnet-rdf.princeton.edu/wn30/03445777-n"
+    },
+    "9": {
+        "id": "03888257-n",
+        "label": "parachute, chute",
+        "uri": "http://wordnet-rdf.princeton.edu/wn30/03888257-n"
+    }
+}
