@@ -11,7 +11,8 @@
 Connect with me:
 
 <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=adityakane1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-<a href="https://www.linkedin.com/in/aditya-kane/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>     <a href="https://twitter.com/adityakane1" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/aditya-kane/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://twitter.com/adityakane1" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
 If you want faster replies, drop an issue in my profile [repo](https://github.com/AdityaKane2001/AdityaKane2001/issues)!
 <!-- ![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/aditya-kane/) ![https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white](https://twitter.com/adityakane1)
