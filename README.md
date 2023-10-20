@@ -4,7 +4,7 @@
 **AdityaKane2001/AdityaKane2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - Currently geeking about TensorFlow and Machine Learning.
-- Senior at Computer Engineering at Pune Institute of Computer Technology, Pune.
+- First year MS in Computer Science student at Georgia Institute of Technology.
 - I :heart: open source. 
 - Keen to collaborate on ML projects!
 
